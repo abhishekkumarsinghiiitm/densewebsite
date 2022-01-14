@@ -1,0 +1,4 @@
+function validation()
+{
+	document.getElementById("01").innerHTML="hahahaha......";
+}
